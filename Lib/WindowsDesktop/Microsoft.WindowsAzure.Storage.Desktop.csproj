@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Microsoft.WindowsAzure.Storage</RootNamespace>
-    <AssemblyName>Microsoft.WindowsAzure.Storage</AssemblyName>
+    <AssemblyName>Microsoft.WindowsAzure.Storage.Hybrid_2019_03_01</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile>
@@ -23,7 +23,7 @@
     <DefineConstants>TRACE;DEBUG;WINDOWS_DESKTOP;SYNC;APM;TASK;CODE_ANALYSIS</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Debug\Microsoft.WindowsAzure.Storage.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\Microsoft.WindowsAzure.Storage.Hybrid_2019_03_01.xml</DocumentationFile>
     <RunCodeAnalysis>true</RunCodeAnalysis>
     <CodeAnalysisRuleSet>CodeAnalysisWindowsDesktop.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>false</Prefer32Bit>
@@ -38,7 +38,7 @@
     <DefineConstants>TRACE;WINDOWS_DESKTOP;SYNC;APM;TASK;SIGN</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Release\Microsoft.WindowsAzure.Storage.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\Microsoft.WindowsAzure.Storage.Hybrid_2019_03_01.xml</DocumentationFile>
     <RunCodeAnalysis>false</RunCodeAnalysis>
     <CodeAnalysisRuleSet>CodeAnalysisWindowsDesktop.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>false</Prefer32Bit>

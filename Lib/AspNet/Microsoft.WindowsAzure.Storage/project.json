@@ -1,4 +1,5 @@
 {
+    "title": "Microsoft.WindowsAzure.Storage.Hybrid_2019_03_01",
     "version": "9.2.0.0",
 
     "authors": [ "Microsoft Corporation" ],
@@ -23,6 +24,7 @@
         "warningsAsErrors": true,
         "delaySign": true,
         "keyFile": "MSSharedLibKey.snk",
+		"outputName": "Microsoft.WindowsAzure.Storage.Hybrid_2019_03_01",
         "compile": [
             "**/*.cs",
 
